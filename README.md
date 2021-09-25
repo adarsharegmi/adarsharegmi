@@ -5,6 +5,6 @@
 # Hey Buddy , <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/waving-hand_1f44b.png" width="30px">
 
 
-My 
+My name is Adarsha regmi. I have motive to change my world by upgrading we living beings with tech and greenaries
 
 [![Adarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsharegmi)](https://github.com/adarsharegmi/github-readme-stats)
