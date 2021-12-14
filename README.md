@@ -28,6 +28,3 @@ You can find me on [![LinkedIn][1.2]][1].
 
 
 [![Adarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsharegmi)](https://github.com/adarsharegmi/github-readme-stats)
-
-
-[![Header](https://avatars.githubusercontent.com/u/58980785?s=400&u=979da8b775357792c82946a27a3f90599d61197c&v=4 "Header")](https://some-url.dev/)
