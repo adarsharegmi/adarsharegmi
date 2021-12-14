@@ -23,7 +23,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/adarsha-regmi/
+
 
 
 
