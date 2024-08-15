@@ -24,7 +24,3 @@ You can find me on [![LinkedIn][1.2]][1].
 
 
 [1]: https://www.linkedin.com/in/adarsha-regmi/
-
-
-
-[![Adarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsharegmi)](https://github.com/adarsharegmi/github-readme-stats)
