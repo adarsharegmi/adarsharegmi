@@ -10,7 +10,7 @@
 # Hey Buddy ,
 
 
-My name is Adarsha regmi. I have motive to change my world by upgrading we living beings with tech and greenaries
+My name is Adarsha regmi. assume other things by yourself
 
 
 <!-- Actual text -->
